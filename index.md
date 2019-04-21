@@ -1,5 +1,6 @@
+<head>
 {% include google-adsense.html %}
-
+</head>
 ## Welcome to GitHub Pages
 
 Welcome to Kekule's OXC website.
