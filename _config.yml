@@ -3,3 +3,5 @@
 theme: jekyll-theme-cayman
 title: Welcome to Kekule's OXC homepage!
 google_adsense: ca-pub-6164532283668547
+baseurl: "/blog_DA"
+url: "http://kekule-oxc.github.io" 
