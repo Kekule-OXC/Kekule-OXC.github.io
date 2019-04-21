@@ -9,5 +9,5 @@ This site is a work in progress obviously
 
 The Gerbers for getting the LPC corrector boards made for a 1.6 xbox are available [here](https://github.com/Kekule-OXC/OXC_LPCorrectr_v3/blob/master/OXCLPC_gerbers.zip)
 
-These and many other items can be purchased from my [website](www.chimericsystems.com)
+These and many other items can be purchased from my [website](http://www.chimericsystems.com)
 
